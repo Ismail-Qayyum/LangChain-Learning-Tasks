@@ -19,3 +19,7 @@ A project to master LangChain through structured tasks.
 # Task 4: Creating an Agent for Summarization
 
 ![alt text](image-2.png)
+
+# Task 5: Combining Chains, Retrievers, and Agents
+
+![alt text](image-3.png)
