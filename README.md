@@ -4,6 +4,4 @@
 
 Path: `task-1/task1.py`
 
-### How to Run
-
 ![alt text](image.png)
