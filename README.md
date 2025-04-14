@@ -6,7 +6,7 @@ A project to master LangChain through structured tasks.
 
 ## Task 1: Setup LangChain Environment
 
-![alt text](image.png)
+--- censored 
 
 # Task 2: Building a Basic Summarization Chain
 
