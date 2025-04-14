@@ -15,3 +15,7 @@ A project to master LangChain through structured tasks.
 # Task 3: Exploring Retrievers with Summarization
 
 ![alt text](image-1.png)
+
+# Task 4: Creating an Agent for Summarization
+
+![alt text](image-2.png)
