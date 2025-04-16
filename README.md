@@ -35,3 +35,12 @@ A project to master LangChain through structured tasks.
 # Task 8: Customizing with output parser
 
 ![alt text](image-6.png)
+
+# Task 9: Experimenting with Multi-Query Retrieval
+
+![image](https://github.com/user-attachments/assets/484c9b13-232a-49a9-a9a3-4c32e4055736)
+
+![image](https://github.com/user-attachments/assets/0f9a1f54-524e-4d01-8191-385b406b1aad)
+
+
+
