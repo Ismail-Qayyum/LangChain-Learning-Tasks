@@ -6,7 +6,7 @@ A project to master LangChain through structured tasks.
 
 ## Task 1: Setup LangChain Environment
 
---- censored 
+--- censored
 
 # Task 2: Building a Basic Summarization Chain
 
@@ -27,3 +27,7 @@ A project to master LangChain through structured tasks.
 # Task 6: Using Memory to Improve Summarization
 
 ![alt text](image-4.png)
+
+# Task 7: Leveraging Document Loaders for Diverse Sources
+
+![alt text](image-5.png)
