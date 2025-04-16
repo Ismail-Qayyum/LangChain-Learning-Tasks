@@ -23,3 +23,7 @@ A project to master LangChain through structured tasks.
 # Task 5: Combining Chains, Retrievers, and Agents
 
 ![alt text](image-3.png)
+
+# Task 6: Using Memory to Improve Summarization
+
+![alt text](image-4.png)
