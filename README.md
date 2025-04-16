@@ -31,3 +31,17 @@ A project to master LangChain through structured tasks.
 # Task 7: Leveraging Document Loaders for Diverse Sources
 
 ![alt text](image-5.png)
+
+# Task 8: Customizing with output parser
+
+![alt text](image-6.png)
+
+# Task 9: Experimenting with MultiQuery Retrieval
+
+![alt text](image-7png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
