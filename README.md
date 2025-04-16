@@ -38,7 +38,9 @@ A project to master LangChain through structured tasks.
 
 # Task 9: Experimenting with MultiQuery Retrieval
 
+
 ![alt text](image-7png)
+
 
 ![alt text](image-8.png)
 
