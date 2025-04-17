@@ -45,3 +45,7 @@ A project to master LangChain through structured tasks.
 # Task 10: Bulding a Question Answering Chain on Summaries
 
 ![alt text](image-7.png)
+
+# Task 11: Integrating External Tools with Agent
+
+![alt text](image-8.png)
