@@ -42,5 +42,6 @@ A project to master LangChain through structured tasks.
 
 ![image](https://github.com/user-attachments/assets/0f9a1f54-524e-4d01-8191-385b406b1aad)
 
+# Task 10: Bulding a Question Answering Chain on Summaries
 
-
+![alt text](image-7.png)
